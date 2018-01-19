@@ -1,0 +1,10 @@
+name: BWFactions
+main: biologyiswell.factions.FactionsPlugin
+version: 0.1
+author: biologyiswell
+
+commands:
+  faction:
+    aliases: [faccao, f]
+  arenabatalha:
+    aliases: [ab]
